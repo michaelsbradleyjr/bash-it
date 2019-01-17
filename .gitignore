@@ -17,3 +17,6 @@ bats
 enabled/*
 /enabled
 tmp/
+
+# custom
+!custom/*
